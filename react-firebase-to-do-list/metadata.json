@@ -1,0 +1,5 @@
+{
+  "name": "React Firebase To-Do List",
+  "description": "A modern, responsive To-Do List application built with React and Tailwind CSS, simulating a Firebase backend. It allows users to manage tasks with authentication, real-time updates, and filtering capabilities.",
+  "requestFramePermissions": []
+}
